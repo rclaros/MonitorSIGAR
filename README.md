@@ -7,11 +7,11 @@
   Para compilar de sebe descargar e instalar JDK 6 java y Netbenas IDE o cualquiero otro
 
 # Dependencias
- <dependency>
+     <dependency>
      <groupId>org.hyperic</groupId>
      <artifactId>sigar</artifactId>
      <version>1.6.5.132</version>
- </dependency>
+     </dependency>
  
 # Contribución
   Los interesados escribirme a reyiclaros@gmail.com, para unirse y aportar en el desarrollo del proyecto
