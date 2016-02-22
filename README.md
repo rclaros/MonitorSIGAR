@@ -14,13 +14,14 @@
      </dependency>
 
    
-  Agregar los dlls. correspondientes segun el sistema operativo donde desean probrar.
+  Agregar el .dll ó .so correspondientes segun el sistema operativo donde desean probrar.
   Los ddls de deben agregar en:
 
     Path\Java\jdk1.7.0_79\bin, en este caso el JDK 7+
     
    Adjunto en \src\main\resources, estan los ddls para windows de 64 y 32 bits.
 
+  Mas instrucciones en : https://support.hyperic.com/display/SIGAR/Home
 
 # Contribución
   Los interesados escribirme a reyiclaros@gmail.com, para unirse y aportar en el desarrollo del proyecto
