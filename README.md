@@ -3,6 +3,9 @@
   soporte a los sistemas operativos Windows (probado en esta aplicación), Macs y Linux, etc
   La imagen adjunta se puede apreciar el objetivo de este proyecto.
 
+![Ejemplo](https://github.com/rclaros/MonitorSIGAR/blob/master/MonitorCPU.png)
+
+
 # Compilación
   Para compilar de sebe descargar e instalar JDK 6+ java y Netbenas IDE o cualquiero otro
 
